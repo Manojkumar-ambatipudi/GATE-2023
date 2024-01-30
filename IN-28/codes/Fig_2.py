@@ -11,5 +11,6 @@ plt.title('plots of functions h(n) and f(n)')
 plt.grid(1)
 plt.xlabel('n')
 plt.ylabel('f(n), h(n)')
+plt.legend()
 plt.savefig('fig_2.png')
 
