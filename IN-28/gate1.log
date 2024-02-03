@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.1.28)  2 FEB 2024 16:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.1.28)  3 FEB 2024 10:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1273,17 +1273,17 @@ LaTeX Font Info:    Trying to load font information for TS1+txr on input line 5
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ts1txr.fd
 File: ts1txr.fd 2000/12/15 v3.1
 )
-<fig_1.png, id=8, 462.528pt x 346.896pt>
-File: fig_1.png Graphic file (type png)
-<use fig_1.png>
-Package pdftex.def Info: fig_1.png  used on input line 71.
+<figs/fig_1.png, id=8, 462.528pt x 346.896pt>
+File: figs/fig_1.png Graphic file (type png)
+<use figs/fig_1.png>
+Package pdftex.def Info: figs/fig_1.png  used on input line 71.
 (pdftex.def)             Requested size: 252.0pt x 189.00427pt.
  [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf
 -dist/fonts/enc/dvips/base/8r.enc}
 
 
 
- <./fig_1.png>] (./gate1.aux)
+ <./figs/fig_1.png>] (./gate1.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2020/03/25>
@@ -1293,8 +1293,8 @@ Package rerunfilecheck Info: File `gate1.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  30278 strings out of 474267
- 593329 string characters out of 5749989
- 1931555 words of memory out of 5000000
+ 593364 string characters out of 5749989
+ 1930555 words of memory out of 5000000
  51832 multiletter control sequences out of 15000+600000
  632494 words of font info for 202 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
@@ -1305,7 +1305,7 @@ exmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/ur
 w/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on gate1.pdf (1 page, 57458 bytes).
+Output written on gate1.pdf (1 page, 57435 bytes).
 PDF statistics:
  58 PDF objects out of 1000 (max. 8388607)
  38 compressed objects within 1 object stream

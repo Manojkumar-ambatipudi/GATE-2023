@@ -4,7 +4,7 @@ import numpy as np
 def u(n):
     return np.heaviside(n, 1)
 
-x = np.arange(-8, 9)
+x = np.loadtxt("data.dat")
 plt.stem(x, u(-x+5)-u(x+3))
 plt.title("Plot of x(n) function")
 plt.grid(1)
